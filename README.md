@@ -1,4 +1,4 @@
-### [Demo](https://mxmuk.github.io/SPA-react-face-recognition-AREYES/)
+### [Deployed demo](https://mxmuk.github.io/SPA-react-face-recognition-AREYES/)
 
 # Getting Started with Create React App
 
