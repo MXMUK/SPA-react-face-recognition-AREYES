@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SPA-react-face-recognition-AREYES/static/css/main.208257cb.css",
+    "main.js": "/SPA-react-face-recognition-AREYES/static/js/main.81d702f5.js",
+    "static/js/787.ffeae8b2.chunk.js": "/SPA-react-face-recognition-AREYES/static/js/787.ffeae8b2.chunk.js",
+    "static/media/PoetsenOne-Regular.ttf": "/SPA-react-face-recognition-AREYES/static/media/PoetsenOne-Regular.9a553614c0458410b697.ttf",
+    "static/media/loadIcon.svg": "/SPA-react-face-recognition-AREYES/static/media/loadIcon.c25df3b6acb8f45f2bac9873df1ff06a.svg",
+    "static/media/mainButtonReloadIcon.svg": "/SPA-react-face-recognition-AREYES/static/media/mainButtonReloadIcon.869646ba2ce75bd4d997069cc1a258c9.svg",
+    "static/media/scan.svg": "/SPA-react-face-recognition-AREYES/static/media/scan.ee873e00e4db3defc4fe5ff5cad4be78.svg",
+    "static/media/mainButtonIcon.svg": "/SPA-react-face-recognition-AREYES/static/media/mainButtonIcon.7fe5f6dc99e2abd5e61a5cd3084f9216.svg",
+    "static/media/addButtonIcon.svg": "/SPA-react-face-recognition-AREYES/static/media/addButtonIcon.5278c79340e0956c9397cad7182dda06.svg",
+    "static/media/infoButtonIcon.svg": "/SPA-react-face-recognition-AREYES/static/media/infoButtonIcon.a552e58671fd84ee9d5329073095e120.svg",
+    "index.html": "/SPA-react-face-recognition-AREYES/index.html",
+    "static/media/uploadButtonIcon.svg": "/SPA-react-face-recognition-AREYES/static/media/uploadButtonIcon.34c25b8789f5c4d2f1586f9092f452ce.svg",
+    "main.208257cb.css.map": "/SPA-react-face-recognition-AREYES/static/css/main.208257cb.css.map",
+    "main.81d702f5.js.map": "/SPA-react-face-recognition-AREYES/static/js/main.81d702f5.js.map",
+    "787.ffeae8b2.chunk.js.map": "/SPA-react-face-recognition-AREYES/static/js/787.ffeae8b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.208257cb.css",
+    "static/js/main.81d702f5.js"
+  ]
+}
