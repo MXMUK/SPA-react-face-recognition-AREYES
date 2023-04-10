@@ -4,7 +4,6 @@ import classNames from 'classnames';
 export const Button = (props) => {
   const {
     children,
-    variant = 'primary',
     onClick,
     disable = false,
     type = 'button',
