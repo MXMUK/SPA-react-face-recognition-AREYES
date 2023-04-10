@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: PoetsenOne;
+    src: url(/src/assets/font/PoetsenOne-Regular.ttf);
+  }
+
+  html {
+    @apply h-full;
+  }
+
+  body {
+    @apply w-full;
+    @apply h-full;
+    @apply bg-black;
+
+    font-family: PoetsenOne;
+  }
+}
